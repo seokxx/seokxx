@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 <h3 align=center> 
 🌱 Hello🖐 I’m Seok in Asan, Korea 
-<br>
-I used to major in music and psychology.
-And now I'm a front-end developer!
-</h3>
-<br>
 
 <div align=center>
 	
