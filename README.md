@@ -1,5 +1,4 @@
 ###
-<div style="background-color: black">
 
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=150&section=header&text=mynameis%20seok&fontSize=40&fontAlign=80&fontAlignY=20&fontColor=221E52" />
@@ -7,7 +6,9 @@
 
 <h3 align=center> 
 🌱 Hello🖐 I’m Seok in Asan, Korea 
-
+	
+<div>
+	
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -39,8 +40,12 @@
 	<img src="https://img.shields.io/badge/xd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
 	<img src="https://img.shields.io/badge/premierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 </div>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhtjr7583)](https://solved.ac/qhtjr7583)
+</div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-</div>
 	
