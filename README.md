@@ -41,6 +41,10 @@
 	<img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 	<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 	<br>
+	<img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+	<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+	<img src="https://img.shields.io/badge/labview-FFDB00?style=flat-square&logo=labview&logoColor=black"/>
+	<br>
 	<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/xd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
 	<img src="https://img.shields.io/badge/premierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
