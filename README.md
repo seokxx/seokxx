@@ -4,10 +4,7 @@
 
 <!-- TASTEYOM -->
 ## <a href="http://tasteyom.com"> :meat_on_bone:TASTEYOM </a>
-
-- This is my FIRST PROJECT
-- Full Stack developed
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seok&fontSize=90" />
 ------
 <!-- Language logo-->
 ### Main Lanauage
