@@ -43,18 +43,6 @@ And now I'm a front-end developer!
 	
 <div align=center>
 	<h3> 🐣 SNS / portfolio 🐣 </h3>	
-	<a href="https://www.notion.so/inadang/Ina-b89959d18d534a52a1cf2301e0a2284d" align=center>
-		<img src="http://img.shields.io/badge/-notion-black?style=flat&logo=notion&link=https://www.notion.so/inadang/Ina-b89959d18d534a52a1cf2301e0a2284d"
-		 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-	</a>
-	<a href="https://h-owo-ld.tistory.com/" align=center>
-		<img src="http://img.shields.io/badge/-Tistory-yellow?style=flat&logo=Tistory&link=https://h-owo-ld.tistory.com/"
-	 	style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-	</a>
-	<a href="mailto:ina9377@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ina9377@gmail.com"
-	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-	</a>
 </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
