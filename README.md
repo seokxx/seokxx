@@ -4,8 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=150&section=header&text=mynameis%20seok&fontSize=40&fontAlign=80&fontAlignY=20&fontColor=221E52" />
 </p>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 <h3 align=center> 
 🌱 Hello🖐 I’m Seok in Asan, Korea 
 
@@ -40,4 +38,6 @@
 	<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 	<img src="https://img.shields.io/badge/xd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
 </div>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 	
