@@ -1,23 +1,10 @@
 ###
 
-<!--
-**Ina-dang/Ina-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=250&section=header&text=mynameis%20seok&fontSize=60&fontAlign=70&fontColor=221E52" />
 </p>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <h3 align=center> 
 🌱 Hello🖐 I’m Seok in Asan, Korea 
@@ -39,5 +26,3 @@ Here are some ideas to get you started:
 <div align=center>
 	<h3> 🐣 SNS / portfolio 🐣 </h3>	
 </div>
-
-![](./profile-3d-contrib/profile-gitblock.svg)
