@@ -1,4 +1,5 @@
 ###
+<div backgroundColor="black">
 
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=150&section=header&text=mynameis%20seok&fontSize=40&fontAlign=80&fontAlignY=20&fontColor=221E52" />
@@ -6,10 +7,6 @@
 
 <h3 align=center> 
 🌱 Hello🖐 I’m Seok in Asan, Korea 
-
-<div align=center>
-	
-</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
@@ -44,4 +41,6 @@
 </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+</div>
 	
