@@ -1,5 +1,5 @@
 ###
-<div backgroundColor="black">
+<div style="background-color: black">
 
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=150&section=header&text=mynameis%20seok&fontSize=40&fontAlign=80&fontAlignY=20&fontColor=221E52" />
@@ -24,7 +24,10 @@
 	<br>
 	<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+	<br>
 	<img src="https://img.shields.io/badge/jsp-F37626?style=flat-square&logo=jsp&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
