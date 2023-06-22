@@ -6,6 +6,10 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokxx&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seokxx&show_icons=true">
+
+
 <h3 align=center> 
 🌱 Hello🖐 I’m Seok in Asan, Korea 
 
