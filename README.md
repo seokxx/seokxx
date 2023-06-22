@@ -28,8 +28,9 @@
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/jsp-F37626?style=flat-square&logo=jsp&logoColor=white"/>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-	<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React-1d253a?style=flat-square&logo=React&logoColor=62dafc"/>
+	<img src="https://img.shields.io/badge/ReactNative-3cbbdf?style=flat-square&logo=React&logoColor=white"/>
+	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 	<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 	<br>
