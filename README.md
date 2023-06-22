@@ -28,6 +28,7 @@
 	<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/jsp-F37626?style=flat-square&logo=jsp&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -36,7 +37,10 @@
 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 	<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/xd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+	<img src="https://img.shields.io/badge/premierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
