@@ -1,7 +1,7 @@
 ###
 
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=150&section=header&text=mynameis%20seok&fontSize=30&fontAlign=70&fontAlignY=20&fontColor=221E52" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,100:514a9d&height=150&section=header&text=mynameis%20seok&fontSize=30&fontAlign=90&fontAlignY=20&fontColor=221E52" />
 </p>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
